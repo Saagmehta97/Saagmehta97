@@ -14,7 +14,7 @@ I enjoy strategic games 🎮 and outdoor sports 🏀.
 I love working on projects that blend creativity with tech.
   
 ### 📫 Let's connect:
-[LinkedIn](https://www.linkedin.com/in/saagar-mehta97/)
+[LinkedIn](https://www.linkedin.com/in/saagar-mehta97/) |
 [Email](saagar.mehta97@gmail.com)
 
 </div>
