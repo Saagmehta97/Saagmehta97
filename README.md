@@ -8,6 +8,7 @@ I'm a software engineer passionate about building inclusive, user-friendly web a
 Backend development using **Node.js** and **Python**
 Frontend magic with **React**, **Next.js**, and **Tailwind CSS**
 Advocate for **accessibility** and **inclusive design**
+Currently working on **Ludwig** to help developers write more accessible code
 
 ### 🚀 Some fun facts:
 I enjoy strategic games 🎮 and outdoor sports 🏀.
