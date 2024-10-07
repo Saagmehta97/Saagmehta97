@@ -2,9 +2,9 @@
 
 ## Hi, I'm Saagar Mehta! 👋
 
-I'm a software engineer passionate about building inclusive, user-friendly web applications. I thrive on solving complex problems and love to engage in projects that challenge my skills in backend and frontend development. <br />
-Currently I am working on **Ludwig** to help developers write more accessible code.
-                                  
+I'm a software engineer passionate about building inclusive, user-friendly web applications. I thrive on solving complex problems and love to engage in projects that challenge my skills in backend and frontend development. <br /> <br />
+<code style="color: gold"> 🔶 Currently I am working on **Ludwig** to help developers write more accessible code. </code>
+           
 ### 🌟 What I do:
 Backend development using **Node.js** and **Python**
 Frontend magic with **React**, **Next.js**, and **Tailwind CSS**
