@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Saagar Mehta! 👋
 
-<!--
-**Saagmehta97/Saagmehta97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer passionate about building inclusive, user-friendly web applications. I thrive on solving complex problems and love to engage in projects that challenge my skills in backend and frontend development.
 
-Here are some ideas to get you started:
+### 🌟 What I do:
+- Backend development using **Node.js** and **Python**
+- Frontend magic with **React**, **Next.js**, and **Tailwind CSS**
+- Advocate for **accessibility** and **inclusive design**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🚀 Some fun facts:
+- I enjoy strategic games 🎮 and outdoor sports 🏀.
+- I love working on projects that blend creativity with tech.
+  
+### 📫 Let's connect:
+- [Portfolio](https://your-portfolio-link.com)
+- [LinkedIn](https://www.linkedin.com/in/saagar-mehta97/)
+- [Email](saagar.mehta97@gmail.com)
+
 -->
