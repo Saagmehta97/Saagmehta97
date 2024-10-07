@@ -19,4 +19,6 @@ I love working on projects that blend creativity with tech.
 [LinkedIn](https://www.linkedin.com/in/saagar-mehta97/) |
 [Email](saagar.mehta97@gmail.com)
 
+![https://saagmehta97.github.io/snk](https://saagmehta97.github.io/snk/github-contribution-grid-snake.svg)
+
 </div>
